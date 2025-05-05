@@ -52,5 +52,5 @@ Understand which regions are experiencing delivery issues, what factors influenc
 Hi, my name is Zhasulan Agybay and this is my second data analysis project. Check out my other projects on [GitHub](https://github.com/Zhasulan-Agybay).
 
 
-## ⚖️ License
+#### ⚖️ License
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
